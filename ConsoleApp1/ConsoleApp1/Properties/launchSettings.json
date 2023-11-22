@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project"
+    },
+    "1 Profili": {
+      "commandName": "Executable"
+    }
+  }
+}
